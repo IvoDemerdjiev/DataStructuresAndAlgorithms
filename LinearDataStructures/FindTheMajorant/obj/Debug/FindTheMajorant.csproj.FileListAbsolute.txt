@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\FindTheMajorant\bin\Debug\FindTheMajorant.exe.config
+E:\C#\Tree\LinearDataStructures\FindTheMajorant\bin\Debug\FindTheMajorant.exe
+E:\C#\Tree\LinearDataStructures\FindTheMajorant\bin\Debug\FindTheMajorant.pdb
+E:\C#\Tree\LinearDataStructures\FindTheMajorant\obj\Debug\FindTheMajorant.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\FindTheMajorant\obj\Debug\FindTheMajorant.exe
+E:\C#\Tree\LinearDataStructures\FindTheMajorant\obj\Debug\FindTheMajorant.pdb

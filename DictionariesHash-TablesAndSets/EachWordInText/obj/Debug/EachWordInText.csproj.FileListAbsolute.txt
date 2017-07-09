@@ -1,0 +1,5 @@
+E:\C#\Tree\DictionariesHash-TablesSets\EachWordInText\bin\Debug\EachWordInText.exe.config
+E:\C#\Tree\DictionariesHash-TablesSets\EachWordInText\bin\Debug\EachWordInText.exe
+E:\C#\Tree\DictionariesHash-TablesSets\EachWordInText\bin\Debug\EachWordInText.pdb
+E:\C#\Tree\DictionariesHash-TablesSets\EachWordInText\obj\Debug\EachWordInText.exe
+E:\C#\Tree\DictionariesHash-TablesSets\EachWordInText\obj\Debug\EachWordInText.pdb

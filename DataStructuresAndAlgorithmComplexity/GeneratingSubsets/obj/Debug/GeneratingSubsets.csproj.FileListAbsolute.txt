@@ -1,0 +1,6 @@
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\GeneratingSubsets\bin\Debug\GeneratingSubsets.exe.config
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\GeneratingSubsets\bin\Debug\GeneratingSubsets.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\GeneratingSubsets\bin\Debug\GeneratingSubsets.pdb
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\GeneratingSubsets\obj\Debug\GeneratingSubsets.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\GeneratingSubsets\obj\Debug\GeneratingSubsets.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\GeneratingSubsets\obj\Debug\GeneratingSubsets.pdb

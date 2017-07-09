@@ -1,0 +1,5 @@
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserBFS\bin\Debug\DirectoryTraverserBFS.exe.config
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserBFS\bin\Debug\DirectoryTraverserBFS.exe
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserBFS\bin\Debug\DirectoryTraverserBFS.pdb
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserBFS\obj\Debug\DirectoryTraverserBFS.exe
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserBFS\obj\Debug\DirectoryTraverserBFS.pdb

@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe.config
+E:\C#\Tree\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.exe
+E:\C#\Tree\LinearDataStructures\LinearDataStructures\bin\Debug\LinearDataStructures.pdb
+E:\C#\Tree\LinearDataStructures\LinearDataStructures\obj\Debug\SumAverageOfSequence.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.exe
+E:\C#\Tree\LinearDataStructures\LinearDataStructures\obj\Debug\LinearDataStructures.pdb

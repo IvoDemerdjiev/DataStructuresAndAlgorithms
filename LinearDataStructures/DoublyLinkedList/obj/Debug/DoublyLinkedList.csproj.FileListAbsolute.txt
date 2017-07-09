@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+E:\C#\Tree\LinearDataStructures\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+E:\C#\Tree\LinearDataStructures\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+E:\C#\Tree\LinearDataStructures\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+E:\C#\Tree\LinearDataStructures\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

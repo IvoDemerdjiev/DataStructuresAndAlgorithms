@@ -1,0 +1,6 @@
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\PhoneBookFinder\bin\Debug\PhoneBookFinder.exe.config
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\PhoneBookFinder\bin\Debug\PhoneBookFinder.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\PhoneBookFinder\bin\Debug\PhoneBookFinder.pdb
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\PhoneBookFinder\obj\Debug\PhoneBookFinder.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\PhoneBookFinder\obj\Debug\PhoneBookFinder.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\PhoneBookFinder\obj\Debug\PhoneBookFinder.pdb

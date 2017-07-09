@@ -1,0 +1,6 @@
+E:\C#\Tree\TreesAndGraphsHomework\CreatingTree\bin\Debug\CreatingTree.exe.config
+E:\C#\Tree\TreesAndGraphsHomework\CreatingTree\bin\Debug\CreatingTree.exe
+E:\C#\Tree\TreesAndGraphsHomework\CreatingTree\bin\Debug\CreatingTree.pdb
+E:\C#\Tree\TreesAndGraphsHomework\CreatingTree\obj\Debug\CreatingTree.csprojResolveAssemblyReference.cache
+E:\C#\Tree\TreesAndGraphsHomework\CreatingTree\obj\Debug\CreatingTree.exe
+E:\C#\Tree\TreesAndGraphsHomework\CreatingTree\obj\Debug\CreatingTree.pdb

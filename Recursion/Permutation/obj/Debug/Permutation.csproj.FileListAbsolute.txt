@@ -1,0 +1,6 @@
+D:\C#\Tree\Recursion\Permutation\bin\Debug\Permutation.exe.config
+D:\C#\Tree\Recursion\Permutation\bin\Debug\Permutation.exe
+D:\C#\Tree\Recursion\Permutation\bin\Debug\Permutation.pdb
+D:\C#\Tree\Recursion\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Recursion\Permutation\obj\Debug\Permutation.exe
+D:\C#\Tree\Recursion\Permutation\obj\Debug\Permutation.pdb

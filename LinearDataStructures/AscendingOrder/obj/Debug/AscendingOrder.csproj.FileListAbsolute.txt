@@ -1,0 +1,5 @@
+E:\C#\Tree\LinearDataStructures\AscendingOrder\bin\Debug\AscendingOrder.exe.config
+E:\C#\Tree\LinearDataStructures\AscendingOrder\bin\Debug\AscendingOrder.exe
+E:\C#\Tree\LinearDataStructures\AscendingOrder\bin\Debug\AscendingOrder.pdb
+E:\C#\Tree\LinearDataStructures\AscendingOrder\obj\Debug\AscendingOrder.exe
+E:\C#\Tree\LinearDataStructures\AscendingOrder\obj\Debug\AscendingOrder.pdb

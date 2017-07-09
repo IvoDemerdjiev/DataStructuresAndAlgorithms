@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\OddCountOfTimes\bin\Debug\OddCountOfTimes.exe.config
+E:\C#\Tree\LinearDataStructures\OddCountOfTimes\bin\Debug\OddCountOfTimes.exe
+E:\C#\Tree\LinearDataStructures\OddCountOfTimes\bin\Debug\OddCountOfTimes.pdb
+E:\C#\Tree\LinearDataStructures\OddCountOfTimes\obj\Debug\OddCountOfTimes.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\OddCountOfTimes\obj\Debug\OddCountOfTimes.exe
+E:\C#\Tree\LinearDataStructures\OddCountOfTimes\obj\Debug\OddCountOfTimes.pdb

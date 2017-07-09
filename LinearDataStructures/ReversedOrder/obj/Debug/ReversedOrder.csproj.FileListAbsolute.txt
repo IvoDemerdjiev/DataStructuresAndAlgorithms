@@ -1,0 +1,5 @@
+E:\C#\Tree\LinearDataStructures\ReversedOrder\bin\Debug\ReversedOrder.exe.config
+E:\C#\Tree\LinearDataStructures\ReversedOrder\bin\Debug\ReversedOrder.exe
+E:\C#\Tree\LinearDataStructures\ReversedOrder\bin\Debug\ReversedOrder.pdb
+E:\C#\Tree\LinearDataStructures\ReversedOrder\obj\Debug\ReversedOrder.exe
+E:\C#\Tree\LinearDataStructures\ReversedOrder\obj\Debug\ReversedOrder.pdb

@@ -1,0 +1,6 @@
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingStudents\bin\Debug\SortingStudents.exe.config
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingStudents\bin\Debug\SortingStudents.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingStudents\bin\Debug\SortingStudents.pdb
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingStudents\obj\Debug\SortingStudents.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingStudents\obj\Debug\SortingStudents.pdb
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingStudents\obj\Debug\SortingStudents.csprojResolveAssemblyReference.cache

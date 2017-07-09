@@ -1,0 +1,8 @@
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\bin\Debug\OccurrencesOfANumberInATree.exe.config
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\bin\Debug\OccurrencesOfANumberInATree.exe
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\bin\Debug\OccurrencesOfANumberInATree.pdb
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\obj\Debug\OccurrencesOfANumberInATree.csprojResolveAssemblyReference.cache
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\obj\Debug\OccurrencesOfANumberInATree.exe
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\obj\Debug\OccurrencesOfANumberInATree.pdb
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\bin\Debug\CreatingTree.exe
+E:\C#\Tree\TreesAndGraphsHomework\OccurrencesOfANumberInATree\bin\Debug\CreatingTree.pdb

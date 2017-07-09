@@ -1,0 +1,6 @@
+D:\C#\Tree\Recursion\AllSubsetOfNumbers\bin\Debug\AllSubsetOfNumbers.exe.config
+D:\C#\Tree\Recursion\AllSubsetOfNumbers\bin\Debug\AllSubsetOfNumbers.exe
+D:\C#\Tree\Recursion\AllSubsetOfNumbers\bin\Debug\AllSubsetOfNumbers.pdb
+D:\C#\Tree\Recursion\AllSubsetOfNumbers\obj\Debug\AllSubsetOfNumbers.exe
+D:\C#\Tree\Recursion\AllSubsetOfNumbers\obj\Debug\AllSubsetOfNumbers.pdb
+D:\C#\Tree\Recursion\AllSubsetOfNumbers\obj\Debug\AllSubsetOfNumbers.csprojResolveAssemblyReference.cache

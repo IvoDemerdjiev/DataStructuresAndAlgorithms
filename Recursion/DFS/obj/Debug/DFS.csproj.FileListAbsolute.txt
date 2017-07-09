@@ -1,0 +1,6 @@
+D:\C#\Tree\Recursion\DFS\bin\Debug\DFS.exe.config
+D:\C#\Tree\Recursion\DFS\bin\Debug\DFS.exe
+D:\C#\Tree\Recursion\DFS\bin\Debug\DFS.pdb
+D:\C#\Tree\Recursion\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+D:\C#\Tree\Recursion\DFS\obj\Debug\DFS.exe
+D:\C#\Tree\Recursion\DFS\obj\Debug\DFS.pdb

@@ -1,0 +1,6 @@
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserDFS\bin\Debug\DirectoryTraverserDFS.exe.config
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserDFS\bin\Debug\DirectoryTraverserDFS.exe
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserDFS\bin\Debug\DirectoryTraverserDFS.pdb
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserDFS\obj\Debug\DirectoryTraverserDFS.csprojResolveAssemblyReference.cache
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserDFS\obj\Debug\DirectoryTraverserDFS.exe
+E:\C#\Tree\TreesAndGraphsHomework\DirectoryTraverserDFS\obj\Debug\DirectoryTraverserDFS.pdb

@@ -1,0 +1,6 @@
+D:\C#\Tree\Recursion\StringRecursion\bin\Debug\StringRecursion.exe.config
+D:\C#\Tree\Recursion\StringRecursion\bin\Debug\StringRecursion.exe
+D:\C#\Tree\Recursion\StringRecursion\bin\Debug\StringRecursion.pdb
+D:\C#\Tree\Recursion\StringRecursion\obj\Debug\StringRecursion.exe
+D:\C#\Tree\Recursion\StringRecursion\obj\Debug\StringRecursion.pdb
+D:\C#\Tree\Recursion\StringRecursion\obj\Debug\StringRecursion.csprojResolveAssemblyReference.cache

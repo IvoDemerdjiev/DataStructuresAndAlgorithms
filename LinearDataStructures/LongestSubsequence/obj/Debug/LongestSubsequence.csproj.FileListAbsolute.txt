@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe.config
+E:\C#\Tree\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.exe
+E:\C#\Tree\LinearDataStructures\LongestSubsequence\bin\Debug\LongestSubsequence.pdb
+E:\C#\Tree\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.exe
+E:\C#\Tree\LinearDataStructures\LongestSubsequence\obj\Debug\LongestSubsequence.pdb

@@ -1,0 +1,6 @@
+E:\C#\Tree\DictionariesHash-TablesSets\DictHashSetT\bin\Debug\DictHashSetT.exe.config
+E:\C#\Tree\DictionariesHash-TablesSets\DictHashSetT\bin\Debug\DictHashSetT.exe
+E:\C#\Tree\DictionariesHash-TablesSets\DictHashSetT\bin\Debug\DictHashSetT.pdb
+E:\C#\Tree\DictionariesHash-TablesSets\DictHashSetT\obj\Debug\DictHashSetT.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DictionariesHash-TablesSets\DictHashSetT\obj\Debug\DictHashSetT.exe
+E:\C#\Tree\DictionariesHash-TablesSets\DictHashSetT\obj\Debug\DictHashSetT.pdb

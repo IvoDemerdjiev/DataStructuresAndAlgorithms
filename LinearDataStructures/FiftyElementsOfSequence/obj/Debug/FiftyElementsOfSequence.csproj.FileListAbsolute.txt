@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\FiftyElementsOfSequence\bin\Debug\FiftyElementsOfSequence.exe.config
+E:\C#\Tree\LinearDataStructures\FiftyElementsOfSequence\bin\Debug\FiftyElementsOfSequence.exe
+E:\C#\Tree\LinearDataStructures\FiftyElementsOfSequence\bin\Debug\FiftyElementsOfSequence.pdb
+E:\C#\Tree\LinearDataStructures\FiftyElementsOfSequence\obj\Debug\FiftyElementsOfSequence.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\FiftyElementsOfSequence\obj\Debug\FiftyElementsOfSequence.exe
+E:\C#\Tree\LinearDataStructures\FiftyElementsOfSequence\obj\Debug\FiftyElementsOfSequence.pdb

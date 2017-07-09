@@ -1,0 +1,6 @@
+E:\C#\Tree\LinearDataStructures\ShortestSubsequence\bin\Debug\ShortestSubsequence.exe.config
+E:\C#\Tree\LinearDataStructures\ShortestSubsequence\bin\Debug\ShortestSubsequence.exe
+E:\C#\Tree\LinearDataStructures\ShortestSubsequence\bin\Debug\ShortestSubsequence.pdb
+E:\C#\Tree\LinearDataStructures\ShortestSubsequence\obj\Debug\ShortestSubsequence.csprojResolveAssemblyReference.cache
+E:\C#\Tree\LinearDataStructures\ShortestSubsequence\obj\Debug\ShortestSubsequence.exe
+E:\C#\Tree\LinearDataStructures\ShortestSubsequence\obj\Debug\ShortestSubsequence.pdb

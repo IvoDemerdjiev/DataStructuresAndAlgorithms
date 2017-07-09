@@ -1,0 +1,6 @@
+E:\C#\Tree\TreesAndGraphsHomework\SubTreesOfATree\bin\Debug\SubTreesOfATree.exe.config
+E:\C#\Tree\TreesAndGraphsHomework\SubTreesOfATree\bin\Debug\SubTreesOfATree.exe
+E:\C#\Tree\TreesAndGraphsHomework\SubTreesOfATree\bin\Debug\SubTreesOfATree.pdb
+E:\C#\Tree\TreesAndGraphsHomework\SubTreesOfATree\obj\Debug\SubTreesOfATree.csprojResolveAssemblyReference.cache
+E:\C#\Tree\TreesAndGraphsHomework\SubTreesOfATree\obj\Debug\SubTreesOfATree.exe
+E:\C#\Tree\TreesAndGraphsHomework\SubTreesOfATree\obj\Debug\SubTreesOfATree.pdb

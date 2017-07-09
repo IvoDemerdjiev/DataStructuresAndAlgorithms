@@ -1,0 +1,6 @@
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\BinaryHeap\bin\Debug\BinaryHeap.exe.config
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\BinaryHeap\bin\Debug\BinaryHeap.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\BinaryHeap\bin\Debug\BinaryHeap.pdb
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\BinaryHeap\obj\Debug\BinaryHeap.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\BinaryHeap\obj\Debug\BinaryHeap.pdb

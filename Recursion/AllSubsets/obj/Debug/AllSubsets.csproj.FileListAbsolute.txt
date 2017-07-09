@@ -1,0 +1,5 @@
+D:\C#\Tree\Recursion\AllSubsets\bin\Debug\AllSubsets.exe.config
+D:\C#\Tree\Recursion\AllSubsets\bin\Debug\AllSubsets.exe
+D:\C#\Tree\Recursion\AllSubsets\bin\Debug\AllSubsets.pdb
+D:\C#\Tree\Recursion\AllSubsets\obj\Debug\AllSubsets.exe
+D:\C#\Tree\Recursion\AllSubsets\obj\Debug\AllSubsets.pdb

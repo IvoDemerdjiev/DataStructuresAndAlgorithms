@@ -1,0 +1,5 @@
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingAPhoneBook\bin\Debug\SortingAPhoneBook.exe.config
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingAPhoneBook\bin\Debug\SortingAPhoneBook.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingAPhoneBook\bin\Debug\SortingAPhoneBook.pdb
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingAPhoneBook\obj\Debug\SortingAPhoneBook.exe
+E:\C#\Tree\DataStructuresAndAlgorithmComplexity\SortingAPhoneBook\obj\Debug\SortingAPhoneBook.pdb
